@@ -1,5 +1,5 @@
 ## Hi there 👋
-I‘m Jun Tian. Currently, I am a junior visiting student in University of California, Berkeley. And My home university is University of Electronic Science and Technology of China. I am always passionate about computer vision. To be more specific, I am currently very interested in the multi-modal field, especially the combination of text and vision problem. What's more, I have also been interested in the field of robotics recently. 
+I‘m Jun Tian. Currently, I am a senior at the University of Electronic Science and Technology of China. Previously, i am fortunately to be a visiting student in University of California, Berkeley. I am always passionate about computer vision, which mainly focus on the problems towards open world. Besides that, i am also interested in 3D vision and robot learning currently. Hope to be committed to Embodied AI in the future!
 
 Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
 
